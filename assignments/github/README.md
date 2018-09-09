@@ -10,7 +10,7 @@ This assignment has three parts:
 
 The goal is to make sure you can perform the basic Github tasks we discussed in class. If you need a refresher, I'd recommend you consult the guide [here](https://github.com/cjdd3b/advanced-data-journalism/blob/master/notes/git_basics.md).
 
-This assignment is due at the beginning of class next **Monday, Sept. 10.** If you haven't already, please put your name and Github account in [this spreadsheet](https://docs.google.com/spreadsheets/d/1spv-JKLgOxz1Ew3OyLLxYfjBsXCkNDDZ1gRCfcTjeAw/edit#gid=0).
+This assignment is due at the beginning of class next **Monday, Sept. 17.** If you haven't already, please put your name and Github account in [this spreadsheet](https://docs.google.com/spreadsheets/d/1spv-JKLgOxz1Ew3OyLLxYfjBsXCkNDDZ1gRCfcTjeAw/edit#gid=0).
 
 ## News organization Github accounts
 
