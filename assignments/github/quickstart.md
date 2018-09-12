@@ -4,7 +4,7 @@
 
   - **Step 2**: Go to your Github account page. Open the respositories tab and click the big green "New" button. Create a repository with the same name as `YOUR-FOLDER`. After filling out the forms, you should see a page with some instructions that looks like this:
 
-  IMAGE
+  <img width="991" alt="screen shot 2018-09-12 at 8 21 45 am" src="https://user-images.githubusercontent.com/947791/45427975-d79ad200-b665-11e8-8565-f901ee7c8880.png">
 
   Take special note of the circled bit.
 
@@ -16,7 +16,7 @@
 cd Desktop
 cd YOUR_FOLDER
 git init
-git remote add origin https://github.com/YOUR-NAME/YOUR-FOLDER
+git remote add origin https://github.com/YOUR-NAME/YOUR-FOLDER (from the circled line above)
 git push -u origin master
 ```
 
