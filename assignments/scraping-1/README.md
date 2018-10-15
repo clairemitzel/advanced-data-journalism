@@ -8,4 +8,4 @@ It might be helpful at times to consult the documentation for [BeautifulSoup](ht
 
 Once you're done, commit your code into either a new or existing repository and put a link to it in the spreadsheet, per usual.
 
-This assignment is due next **Monday, Oct. 15**
+This assignment is due next **Monday, Oct. 22**
